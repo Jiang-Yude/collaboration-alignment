@@ -59,3 +59,13 @@ git clone https://github.com/Jiang-Yude/collaboration-alignment ~/.claude/skills
 ## 授權
 
 MIT License。詳見 [LICENSE](./LICENSE)
+
+---
+
+## 維護者
+
+江昱德（Jiang Yude）<br>
+隱性知識提煉師<br>
+AI 知識架構師
+
+[知識官網](https://jiangyude.com/) · [Threads](https://www.threads.com/@jiang_yude_coach)
